@@ -1,0 +1,32 @@
+.title{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 1.6rem;
+    color:black;
+    padding: 1rem 0;
+    line-height: 1.8;
+    float: right;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+img:hover{
+    height: 650px;
+    width: 650px;
+}
+.t5arita{
+    transform: rotate(180deg);
+}
+.t5arita:active{
+  transform: rotate(0deg);
+  transition: 2s;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    font-size: 25px;
+}

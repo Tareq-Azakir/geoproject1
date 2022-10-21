@@ -1,0 +1,34 @@
+.title{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 1.6rem;
+    color:black;
+    padding: 1rem 0;
+    line-height: 1.8;
+    float: right;
+}
+.img{
+    height: 250px;
+    width: 250px;
+}
+.img:hover{
+    height: 550px;
+    width: 850px;
+}
+.t5arita{
+    width: 850px;
+    height: 550px;
+}
+.tet{
+    width: 175px;
+    height: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    font-size: 25px;
+}

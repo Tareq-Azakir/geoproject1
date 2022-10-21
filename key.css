@@ -1,0 +1,25 @@
+.title{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 1.6rem;
+    color:black;
+    padding: 1rem 0;
+    line-height: 1.8;
+    float: right;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+img:hover{
+    height: 500px;
+    width: 500px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    font-size: 25px;
+}

@@ -1,0 +1,36 @@
+.title{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+    color:black;
+    padding: 1rem 0;
+    line-height: 1.8;
+    float:right;
+}
+h2{
+    font-size: 30px;
+    
+    display: block;
+}
+
+
+
+img{
+    width: 350px;
+    height: 350px;
+    
+}
+
+img:hover{
+    width: 550px;
+    height: 550px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    font-size: 25px;
+}
