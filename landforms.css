@@ -12,21 +12,30 @@ p{
 }
 h2{
     font-size: 30px;
-    
+    float: right;
     display: block;
 }
+.h21{
+    display: center;
+    justify-content: right;
 
-
+}
+.box1{
+    display: flex;
+    justify-content: center;
+}
 
 img{
-    width: 350px;
-    height: 350px;
+    
+    width: 250px;
+    height: 250px;
+    float:center;
     
 }
 
 img:hover{
-    width: 550px;
-    height: 550px;
+    width:50%;
+    height:s 50%;
 }
 a{
     text-decoration: none;
